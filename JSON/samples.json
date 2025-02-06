@@ -1,1 +1,10 @@
-[]
+[[
+  {
+    "name": "guitar sample",
+    "file": "samples/guitar_sample.mp3",
+    "bpm": "121",
+    "loop": "2m",
+    "grain": "0.001",
+    "overlap": "0.021"
+  }
+]]
