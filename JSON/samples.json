@@ -1,4 +1,4 @@
-[[
+[
   {
     "name": "guitar sample",
     "file": "samples/guitar_sample.mp3",
@@ -6,9 +6,7 @@
     "loop": "2m",
     "grain": "0.001",
     "overlap": "0.021"
-  }
-]]
-[
+  },
   {
     "name": "piano sample",
     "file": "samples/piano_sample.mp3",
@@ -16,8 +14,7 @@
     "loop": "2m",
     "grain": "0.041",
     "overlap": "0.011"
-  }
-][
+  },
   {
     "name": "rain sample",
     "file": "samples/rain_sample.mp3",
