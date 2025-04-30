@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "name": "Reagan's Graph",
+    "pitchSet": {
+      "state": "Gb3",
+      "matrix": {
+        "C4": [
+          "C4"
+        ],
+        "G3": [
+          "G3"
+        ],
+        "G2": [
+          "G2"
+        ],
+        "Gb3": [
+          "Gb3"
+        ],
+        "A2": [
+          "A2"
+        ],
+        "C2": [
+          "C2"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n.",
+      "matrix": {
+        "4n": [
+          "4n"
+        ],
+        "4n.": [
+          "4n."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Default Graph",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "C4": [
+          "C4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  }
+]
