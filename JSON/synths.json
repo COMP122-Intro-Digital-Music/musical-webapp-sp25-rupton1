@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "name": "Jump!",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": -112,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.145",
+        "decayCurve": "exponential",
+        "release": "1.015",
+        "releaseCurve": "exponential",
+        "sustain": "0.105"
+      },
+      "oscillator": {
+        "partialCount": 1,
+        "partials": [
+          0.8105694691387023
+        ],
+        "phase": 39,
+        "type": "fattriangle1",
+        "count": 4,
+        "spread": 25
+      }
+    }
+  },
+  {
+    "name": "Jump! 2",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 13,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.055",
+        "attackCurve": "linear",
+        "decay": "0.145",
+        "decayCurve": "linear",
+        "release": "1.105",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 251,
+        "type": "fatsawtooth",
+        "count": 2,
+        "spread": 20
+      }
+    }
+  }
+]
